@@ -1,0 +1,48 @@
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 7.0
+
+A fight has just occured 
+and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 9.0
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 2.0
+
+A fight has just occured 
+and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 6.0
+
+A fight has just occured 
+and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 9.0
+
+A fight has just occured 
+and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 9.0
+
+A fight has just occured 
+and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against and Acolyte
+The total remaining HP of the winning side is 9.0
+
+A fight has just occured 
+Acolyte,  won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, 
+The total remaining HP of the winning side is 13.0
+

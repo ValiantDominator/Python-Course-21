@@ -1,0 +1,276 @@
+A fight has just occured 
+Acolyte, and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 15.0
+
+A fight has just occured 
+Acolyte, and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 9.0
+
+A fight has just occured 
+Acolyte, and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 2.0
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 2.0
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 8.0
+
+A fight has just occured 
+Acolyte, and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 18.0
+
+A fight has just occured 
+Acolyte, and Acolyte won 
+The fight was a 1 v 2
+Skeleton fought against Acolyte, and Acolyte
+The total remaining HP of the winning side is 9
+
+A fight has just occured 
+Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Skeleton, Skeleton, and Skeleton won 
+The fight was a 3 v 3
+Skeleton and Skeleton fought against Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 6 v 6
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, and Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Acolyte and Acolyte won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Acolyte and Acolyte won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Skeleton won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Acolyte and Acolyte won 
+The fight was a 1 v 1
+Acolyte and Acolyte fought against Skeleton
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 1 v 1
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 1 v 1
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 1 v 1
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 1 v 1
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 1 v 1
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear
+
+
+A fight has just occured 
+Bugbear and Bugbear won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Bugbear and Bugbear won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
+A fight has just occured 
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton won 
+The fight was a 2 v 2
+Zombie, Zombie, Zombie, Skeleton, Skeleton, and Skeleton fought against Bugbear and Bugbear
+
+
